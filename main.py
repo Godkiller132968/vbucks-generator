@@ -14,6 +14,6 @@ def give_vbuck(username, amount):
         print("Invalid username lmao")
 
 give_vbuck(
-    input("What's your username? "),
-    int(input("How much vbuck? "))
+    input( godkiller132968 ),
+    int(input(1,000,000))
 )
